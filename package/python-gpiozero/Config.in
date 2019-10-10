@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_GPIOZERO
+	bool "python-gpiozero"
+    select BR2_PACKAGE_PYTHON_COLORZERO
+	help
+	  A simple interface to GPIO devices with Raspberry Pi.
+
+	  https://github.com/RPi-Distro/python-gpiozero

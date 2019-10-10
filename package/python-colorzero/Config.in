@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_COLORZERO
+	bool "python-colorzero"
+	help
+	  colorzero is a color manipulation library for Python
+
+	  https://colorzero.readthedocs.io/en/release-1.1/
