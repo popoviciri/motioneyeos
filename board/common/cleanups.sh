@@ -208,6 +208,7 @@ rm -f ${TARGET}/etc/init.d/S20urandom
 rm -f ${TARGET}/etc/init.d/S21rngd
 rm -f ${TARGET}/etc/init.d/S48sntp
 rm -f ${TARGET}/etc/init.d/S49ntp
+rm -f ${TARGET}/etc/init.d/S50mosquitto
 rm -f ${TARGET}/etc/init.d/S50sshd
 rm -f ${TARGET}/etc/init.d/S50proftpd
 rm -f ${TARGET}/etc/init.d/S50postgresql
