@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-MOTION_VERSION = 10807b1d964424b708d0d5ce7027a6669f80355a
+MOTION_VERSION = release-4.3.0
 MOTION_SITE = $(call github,Motion-Project,motion,$(MOTION_VERSION))
 MOTION_AUTORECONF = YES
 MOTION_DEPENDENCIES = host-pkgconf ffmpeg jpeg libmicrohttpd
