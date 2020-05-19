@@ -4,8 +4,8 @@
 #
 #############################################################
 
-V4L2CPP_VERSION=021d887dc531bcf74c766cb413f87e8fc92579e3
-V4L2CPP_SITE = https://github.com/jasaw/libv4l2cpp.git
+V4L2CPP_VERSION=0942d53703c42ff3ed96b80bc0e0ae94d094762e
+V4L2CPP_SITE = https://github.com/mpromonet/libv4l2cpp.git
 V4L2CPP_SITE_METHOD = git
 V4L2CPP_LICENSE = UNLICENSE
 V4L2CPP_LICENSE_FILES = LICENSE
