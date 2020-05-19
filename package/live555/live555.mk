@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-LIVE555_VERSION = 2019.12.05
+LIVE555_VERSION = 2020.05.15
 LIVE555_SOURCE = live.$(LIVE555_VERSION).tar.gz
 # LIVE555_SITE = http://www.live555.com/liveMedia/public
 LIVE555_SITE = https://download.videolan.org/pub/contrib/live555
