@@ -4,10 +4,12 @@
 #
 ################################################################################
 
-LIVE555_VERSION = 2020.05.15
-LIVE555_SOURCE = live.$(LIVE555_VERSION).tar.gz
-# LIVE555_SITE = http://www.live555.com/liveMedia/public
-LIVE555_SITE = https://download.videolan.org/pub/contrib/live555
+LIVE555_VERSION = latest
+LIVE555_SOURCE = live555-$(LIVE555_VERSION).tar.gz
+LIVE555_SITE = http://www.live555.com/liveMedia/public
+# LIVE555_VERSION = 2020.05.15
+# LIVE555_SOURCE = live.$(LIVE555_VERSION).tar.gz
+# LIVE555_SITE = https://download.videolan.org/pub/contrib/live555
 LIVE555_LICENSE = LGPL-2.1+
 LIVE555_LICENSE_FILES = COPYING
 LIVE555_INSTALL_STAGING = YES
