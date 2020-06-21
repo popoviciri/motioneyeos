@@ -4,7 +4,6 @@
 #
 #############################################################
 
-<<<<<<< HEAD
 MOTIONEYE_VERSION = acdc6644dbb0768a228d45fc2b230b779a9bc661
 MOTIONEYE_SITE = $(call github,ccrisan,motioneye,$(MOTIONEYE_VERSION))
 MOTIONEYE_SOURCE = $(MOTIONEYE_VERSION).tar.gz
