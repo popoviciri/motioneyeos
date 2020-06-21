@@ -214,6 +214,7 @@ rm -f ${TARGET}/etc/init.d/S50sshd
 rm -f ${TARGET}/etc/init.d/S50proftpd
 rm -f ${TARGET}/etc/init.d/S50postgresql
 rm -f ${TARGET}/etc/init.d/S50redis
+rm -f ${TARGET}/etc/init.d/S50ser2net
 rm -f ${TARGET}/etc/init.d/S80dhcp-relay
 rm -f ${TARGET}/etc/init.d/S80dhcp-server
 rm -f ${TARGET}/etc/init.d/S80dnsmasq
