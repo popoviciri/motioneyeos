@@ -4,7 +4,7 @@
 #
 #############################################################
 
-V4L2RTSPSERVER_VERSION = 4940f1f98950793cc496bfd451af807abd991f41
+V4L2RTSPSERVER_VERSION = 98101186cb3f27565fa0c8a24530ed7bdf0fbb91
 V4L2RTSPSERVER_SITE = https://github.com/mpromonet/v4l2rtspserver.git
 V4L2RTSPSERVER_SITE_METHOD = git
 V4L2RTSPSERVER_LICENSE = UNLICENSE

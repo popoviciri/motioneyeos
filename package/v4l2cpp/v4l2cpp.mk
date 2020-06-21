@@ -4,7 +4,7 @@
 #
 #############################################################
 
-V4L2CPP_VERSION=0942d53703c42ff3ed96b80bc0e0ae94d094762e
+V4L2CPP_VERSION=2d162272eaace43c9b54787afdded03d40579e39
 V4L2CPP_SITE = https://github.com/mpromonet/libv4l2cpp.git
 V4L2CPP_SITE_METHOD = git
 V4L2CPP_LICENSE = UNLICENSE
