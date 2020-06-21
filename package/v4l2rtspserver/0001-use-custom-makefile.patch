@@ -22,7 +22,7 @@ index e69de29..fb3f2bf 100644
 +	src/DeviceSource.o \
 +	src/H264_V4l2DeviceSource.o \
 +	src/HTTPServer.o \
-+	src/main.o \
++	main.o \
 +	src/MemoryBufferSink.o \
 +	src/MJPEGVideoSource.o \
 +	src/MulticastServerMediaSubsession.o \
