@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-MOTION_VERSION = release-4.3.1
+MOTION_VERSION = ff04afab135c0626e6925f9b0d86b0a854d1ae05
 MOTION_SITE = $(call github,Motion-Project,motion,$(MOTION_VERSION))
 MOTION_LICENSE = GPL-2.0
 MOTION_LICENSE_FILES = doc/COPYING
